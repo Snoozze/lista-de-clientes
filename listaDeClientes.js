@@ -1,4 +1,4 @@
-import { listaDeClientes } from "./app";
+import { listaDeClientes } from "./app.js";
 
 export class Cliente {
   constructor(name) {
